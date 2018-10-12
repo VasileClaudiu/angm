@@ -1,0 +1,13 @@
+{
+  "HOME": {
+    "TITLE": "Hello Angular with ngx-translate!",
+    "SELECT": "Change language",
+    "open_menu": "MENU",
+    "home": "HOME",
+    "register": "REGISTER",
+    "login": "LOGIN",
+    "tasks": "TASKS",
+    "settings": "SETTINGS",
+    "logout": "LOGOUT"
+  }
+}

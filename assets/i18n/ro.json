@@ -1,0 +1,13 @@
+{
+  "HOME": {
+    "TITLE": "Bine ati venit la Angular cu ngx-translate !",
+    "SELECT": "Selectati Limba",
+    "open_menu": "MENIU",
+    "home": "ACASĂ",
+    "register": " ÎNREGISTRARE",
+    "login": "AUTENTIFICARE",
+    "tasks": "SARCINI",
+    "settings": "SETĂRI",
+    "logout": "IEȘIRE"
+  }
+}
