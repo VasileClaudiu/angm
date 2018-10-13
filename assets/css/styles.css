@@ -1,21 +1,22 @@
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
 
 body {
-  min-height: 90vh;
+  height: 90vh;
   position: relative;
   background-color: silver;
 }
 footer{
     height: 10vh;
     background-color: #78909c;
-    position: absolute;
+    position: fixed;
     color: white;
     bottom: 0;
-    top: 90%;
     display:flex;
     align-items:center;
 }
-
+.container{
+	margin-bottom:15vh;
+}
 .mat-menu-panel {
 	padding: 0px 10px 10px 0px;
 }
@@ -54,12 +55,9 @@ form.blue {
 }
 
 hr {
-    display: block;
     height: 1px;
     border: 0;
     border-top: 1px solid #ffffff;
-    margin: 1em 0;
-    padding: 0; 
 }
 html, body { height: 100%; }
 body { margin: 0; font-family: 'Roboto', sans-serif; }
