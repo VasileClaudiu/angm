@@ -8,6 +8,8 @@
     "login": "AUTHENTIFICATION",
     "tasks": "TÂCHES",
     "settings": "PARAMÈTRES",
-    "logout": "SORTIE"
+    "logout": "SORTIE",
+    "chat" : "CHAT",
+    "welcome" : "Bienvenue sur la page d'accueil App!!"
   }
 }

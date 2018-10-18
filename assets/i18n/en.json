@@ -8,6 +8,8 @@
     "login": "LOGIN",
     "tasks": "TASKS",
     "settings": "SETTINGS",
-    "logout": "LOGOUT"
+    "logout": "LOGOUT",
+    "chat" : "CHAT",
+    "welcome" : "Welcome to Home Page App!!"
   }
 }

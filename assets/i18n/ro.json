@@ -8,6 +8,8 @@
     "login": "AUTENTIFICARE",
     "tasks": "SARCINI",
     "settings": "SETĂRI",
-    "logout": "IEȘIRE"
+    "logout": "IEȘIRE",
+    "chat" : "CHAT",
+    "welcome" : "Bine ați venit Pagina de Pornire a Apicației!!"
   }
 }
